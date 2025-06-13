@@ -1,1 +1,1 @@
-npm install fs path discord.js systeminformation os
+npm install fs path discord.js systeminformation os child_process
